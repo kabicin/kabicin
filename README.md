@@ -1,6 +1,6 @@
 ## Hello, world!
 
-I'm Kirby, I am currently a Software Developer at IBM working on cloud-native technologies in Go! I'm actively contributing to open-source projects to strengthen my C++ skills and gain hands-on experience with large, real-world systems. Selected contributions are listed below:  
+I'm Kirby, I am currently a Software Developer at IBM working on cloud-native technologies in Go! I'm actively contributing to open-source projects to strengthen my programming skills and gain hands-on experience with large, real-world systems. Selected contributions are listed below:  
 
 ## OSS Contributions
 
